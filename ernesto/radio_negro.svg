@@ -42,9 +42,9 @@
      inkscape:window-height="1029"
      id="namedview4987"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="567.10469"
-     inkscape:cy="303.20046"
+     inkscape:zoom="1"
+     inkscape:cx="722.65249"
+     inkscape:cy="334.3701"
      inkscape:window-x="57"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -122,10 +122,12 @@
    id="text4778">Created by:</text>
 
 
+
 				<text
    x="81"
    y="230.5"
    id="text4780">Title:</text>
+
 
 
 				<text
@@ -134,10 +136,12 @@
    id="text4782">Supplementary information:</text>
 
 
+
 				<text
    x="141"
    y="230.5"
    id="text4784">Size:</text>
+
 
 
 				<text
@@ -146,10 +150,12 @@
    id="text4786">Sheet:</text>
 
 
+
 				<text
    x="181"
    y="230.5"
    id="text4788">Scale:</text>
+
 
 
 				<text
@@ -158,10 +164,12 @@
    id="text4790">Part number:</text>
 
 
+
 				<text
    x="141"
    y="249.5"
    id="text4792">Drawing no.:</text>
+
 
 
 				<text
@@ -170,10 +178,12 @@
    id="text4794">Date:</text>
 
 
+
 				<text
    x="181"
    y="257.5"
    id="text4796">Revision:</text>
+
 
 
 			</g>      <g
@@ -188,12 +198,14 @@
      id="tspan4799">Ernesto Aides</tspan></text>
 
 
+
 				<text
    freecad:editable="DRAWING TITLE"
    x="110"
    y="236"
    id="text4805"><tspan
      id="tspan4803">Panel radio version V</tspan></text>
+
 
 
 				<text
@@ -204,12 +216,14 @@
      id="tspan4807" /></text>
 
 
+
 				<text
    freecad:editable="FreeCAD DRAWING"
    x="80"
    y="254"
    id="text4813"><tspan
      id="tspan4811">FreeCAD DRAWING</tspan></text>
+
 
 
 				<text
@@ -220,12 +234,14 @@
      id="tspan4815" /></text>
 
 
+
 				<text
    freecad:editable="FC-SI"
    x="150"
    y="236"
    id="text4821"><tspan
      id="tspan4819">A4</tspan></text>
+
 
 
 				<text
@@ -236,6 +252,7 @@
      id="tspan4823">X / Y</tspan></text>
 
 
+
 				<text
    freecad:editable="FC-SC"
    x="190"
@@ -244,12 +261,14 @@
      id="tspan4827">1:1</tspan></text>
 
 
+
 				<text
    freecad:editable="PN"
    x="180"
    y="244"
    id="text4833"><tspan
-     id="tspan4831">PN</tspan></text>
+     id="tspan4831" /></text>
+
 
 
 				<text
@@ -257,7 +276,8 @@
    x="180"
    y="252"
    id="text4837"><tspan
-     id="tspan4835">DN</tspan></text>
+     id="tspan4835" /></text>
+
 
 
 				<text
@@ -265,7 +285,8 @@
    x="160"
    y="263"
    id="text4841"><tspan
-     id="tspan4839">04/07/2019</tspan></text>
+     id="tspan4839">08/07/2019</tspan></text>
+
 
 
 				<text
@@ -273,7 +294,8 @@
    x="190"
    y="263"
    id="text4845"><tspan
-     id="tspan4843">REV A</tspan></text>
+     id="tspan4843">REV C</tspan></text>
+
 
 
 			</g>      <!-- Set display:none to hide FreeCAD Logo -->
@@ -679,7 +701,7 @@
      width="11.747589"
      height="7.5089941"
      x="142.63464"
-     y="97.052368"
+     y="99.051941"
      rx="2.1933451"
      ry="2.0523429" />
   <rect
@@ -688,44 +710,44 @@
      width="11.747589"
      height="7.5089941"
      x="71.60907"
-     y="123.04832"
+     y="121.04794"
      rx="2.1933451"
      ry="2.0523429" />
   <circle
      style="fill:#000000;stroke:#ffffff;stroke-width:0.81995875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
      id="path4873"
      cx="107.00743"
-     cy="127.33424"
+     cy="125.33452"
      r="3.2115049" />
   <circle
      style="fill:#000000;stroke:#ffffff;stroke-width:0.81995875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
      id="path4873-3"
      cx="121.49975"
-     cy="127.32374"
+     cy="125.32352"
      r="3.2115047" />
   <circle
      style="fill:#000000;stroke:#ffffff;stroke-width:0.81995875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
      id="path4873-5"
      cx="135.98438"
-     cy="127.34776"
+     cy="125.34752"
      r="3.2115047" />
   <circle
      style="fill:#000000;stroke:#ffffff;stroke-width:0.81995875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
      id="path4873-3-6"
      cx="150.47668"
-     cy="127.33725"
+     cy="125.33752"
      r="3.2115045" />
   <circle
      style="fill:#000000;stroke:#ffffff;stroke-width:0.81995875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
      id="path4873-2"
      cx="164.9976"
-     cy="127.34777"
+     cy="125.34752"
      r="3.2115047" />
   <circle
      style="fill:#000000;stroke:#ffffff;stroke-width:0.81995875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
      id="path4873-3-9"
      cx="179.48991"
-     cy="127.33726"
+     cy="125.33752"
      r="3.2115045" />
   <circle
      style="fill:#000000;stroke:#ffffff;stroke-width:0.60237044;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
@@ -759,81 +781,82 @@
      r="6.3039665" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none;"
-     x="69.982292"
-     y="135.84673"
-     id="text4982"><tspan
+     style="font-style:normal;font-weight:normal;font-size:4.93889475px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916735;stroke-miterlimit:4;stroke-dasharray:none"
+     x="69.982201"
+     y="133.84724"
+     id="text4982"
+     transform="scale(1.0000013,0.99999871)"><tspan
        sodipodi:role="line"
        id="tspan4980"
-       x="69.982292"
-       y="135.84673"
-       style="fill:#ffffff;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none;">Select</tspan></text>
+       x="69.982201"
+       y="133.84724"
+       style="fill:#ffffff;stroke-width:0.52916735;stroke-miterlimit:4;stroke-dasharray:none">Select</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
      x="128.94228"
-     y="122.6875"
+     y="120.687"
      id="text4982-3"><tspan
        sodipodi:role="line"
        id="tspan4980-6"
        x="128.94228"
-       y="122.6875"
+       y="120.687"
        style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">NAV1</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;"
+     style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
      x="114.02732"
-     y="135.84673"
+     y="133.84706"
      id="text4982-3-0"><tspan
        sodipodi:role="line"
        id="tspan4980-6-6"
        x="114.02732"
-       y="135.84673"
-       style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;">COM2</tspan></text>
+       y="133.84706"
+       style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">COM2</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;"
+     style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
      x="100.26434"
-     y="122.61756"
+     y="120.61707"
      id="text4982-3-2"><tspan
        sodipodi:role="line"
        id="tspan4980-6-61"
        x="100.26434"
-       y="122.61756"
-       style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;">COM1</tspan></text>
+       y="120.61707"
+       style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">COM1</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
      x="143.10768"
-     y="135.91667"
+     y="133.91701"
      id="text4982-3-0-8"><tspan
        sodipodi:role="line"
        id="tspan4980-6-6-7"
        x="143.10768"
-       y="135.91667"
+       y="133.91701"
        style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">NAV2</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;"
+     style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
      x="158.45586"
-     y="122.6875"
+     y="120.687"
      id="text4982-3-9"><tspan
        sodipodi:role="line"
        id="tspan4980-6-2"
        x="158.45586"
-       y="122.6875"
-       style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;">ADF1</tspan></text>
+       y="120.687"
+       style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">ADF1</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;"
+     style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
      x="173.02129"
-     y="135.91667"
+     y="133.91701"
      id="text4982-3-0-8-0"><tspan
        sodipodi:role="line"
        id="tspan4980-6-6-7-2"
        x="173.02129"
-       y="135.91667"
-       style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;">ADF2</tspan></text>
+       y="133.91701"
+       style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">ADF2</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
@@ -848,12 +871,12 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
-     x="186.54347"
+     x="184.95605"
      y="76.315483"
      id="text4982-3-2-5-2"><tspan
        sodipodi:role="line"
        id="tspan4980-6-61-9-2"
-       x="186.54347"
+       x="184.95605"
        y="76.315483"
-       style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">ACTIVE</tspan></text>
+       style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">STANDBY</tspan></text>
 </svg>
