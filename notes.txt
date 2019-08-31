@@ -1,0 +1,4 @@
+embellecedor led chico, diametro exterior	5.90 mm
+embellecedor led grande, diametro exterior	7.80 mm
+
+perilla grande, diametro exterior base		22.10 mm
