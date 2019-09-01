@@ -12,7 +12,7 @@
    height="210mm"
    viewBox="0 0 297 210"
    id="svg2263"
-   sodipodi:docname="litografia_radio_con_leds_grandes.svg"
+   sodipodi:docname="serigrafia_radio_con_leds_grandes.svg"
    inkscape:version="0.92.4 (unknown)">
   <metadata
      id="metadata2267">
@@ -39,9 +39,9 @@
      inkscape:window-height="995"
      id="namedview2265"
      showgrid="false"
-     inkscape:zoom="0.6294959"
-     inkscape:cx="889.06054"
-     inkscape:cy="183.59025"
+     inkscape:zoom="0.89024164"
+     inkscape:cx="475.53358"
+     inkscape:cy="288.44567"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -382,7 +382,7 @@
        id="rect2631"
        width="14.076276"
        height="9.6312761"
-       x="141.45926"
+       x="142.96738"
        y="98.17363"
        ry="3.4169877" />
     <rect
@@ -468,5 +468,101 @@
        cy="116.00121"
        rx="10.11837"
        ry="10.118798" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="texto"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889618px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916741;stroke-miterlimit:4;stroke-dasharray:none"
+       x="98.941269"
+       y="118.91357"
+       id="text4982-3-2"
+       transform="scale(1.0000015,0.9999985)"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6-61"
+         x="98.941269"
+         y="118.91357"
+         style="fill:#ffffff;stroke-width:0.52916741;stroke-miterlimit:4;stroke-dasharray:none">COM1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       x="129.1611"
+       y="118.98332"
+       id="text4982-3"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6"
+         x="129.1611"
+         y="118.98332"
+         style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">NAV1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       x="159.50517"
+       y="118.98332"
+       id="text4982-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6-2"
+         x="159.50517"
+         y="118.98332"
+         style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">ADF1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889475px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916735;stroke-miterlimit:4;stroke-dasharray:none"
+       x="69.524437"
+       y="137.16965"
+       id="text4982"><tspan
+         sodipodi:role="line"
+         id="tspan4980"
+         x="69.524437"
+         y="137.16965"
+         style="fill:#ffffff;stroke-width:0.52916735;stroke-miterlimit:4;stroke-dasharray:none">Select</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       x="113.75822"
+       y="136.64041"
+       id="text4982-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6-6"
+         x="113.75822"
+         y="136.64041"
+         style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">COM2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       x="144.24249"
+       y="136.71034"
+       id="text4982-3-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6-6-7"
+         x="144.24249"
+         y="136.71034"
+         style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">NAV2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       x="174.58655"
+       y="136.71034"
+       id="text4982-3-0-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6-6-7-2"
+         x="174.58655"
+         y="136.71034"
+         style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">ADF2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889618px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916741;stroke-miterlimit:4;stroke-dasharray:none"
+       x="145.86699"
+       y="95.906517"
+       id="text4982-3-2-7"
+       transform="scale(1.0000015,0.99999851)"><tspan
+         sodipodi:role="line"
+         x="145.86699"
+         y="95.906517"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.52916741;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan1555">&lt;&gt;</tspan></text>
   </g>
 </svg>

@@ -12,7 +12,7 @@
    height="210mm"
    viewBox="0 0 297 210"
    id="svg4434"
-   sodipodi:docname="litografia_radio_con_leds_chicos_fino.svg"
+   sodipodi:docname="serigrafia_radio_con_leds_chicos_fino.svg"
    inkscape:version="0.92.4 (unknown)">
   <metadata
      id="metadata4438">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1613"
-     inkscape:window-height="995"
+     inkscape:window-width="1680"
+     inkscape:window-height="1022"
      id="namedview4436"
      showgrid="false"
-     inkscape:zoom="0.90493288"
-     inkscape:cx="300.13014"
-     inkscape:cy="469.05319"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
+     inkscape:zoom="1.2394119"
+     inkscape:cx="434.25903"
+     inkscape:cy="231.09255"
+     inkscape:window-x="1680"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      showguides="true"
@@ -378,7 +378,7 @@
        id="rect2631"
        width="14.076276"
        height="9.6312761"
-       x="141.45926"
+       x="142.9673"
        y="98.173645"
        ry="3.4169879" />
     <rect
@@ -464,5 +464,124 @@
        cy="116.00121"
        rx="10.11837"
        ry="10.118798" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="texto"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889475px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916735;stroke-miterlimit:4;stroke-dasharray:none"
+       x="69.524414"
+       y="137.16969"
+       id="text4982"><tspan
+         sodipodi:role="line"
+         id="tspan4980"
+         x="69.524414"
+         y="137.16969"
+         style="fill:#ffffff;stroke-width:0.52916735;stroke-miterlimit:4;stroke-dasharray:none">Select</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       x="113.75813"
+       y="135.84668"
+       id="text4982-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6-6"
+         x="113.75813"
+         y="135.84668"
+         style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">COM2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       x="144.24242"
+       y="135.91663"
+       id="text4982-3-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6-6-7"
+         x="144.24242"
+         y="135.91663"
+         style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">NAV2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       x="174.58647"
+       y="135.91663"
+       id="text4982-3-0-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6-6-7-2"
+         x="174.58647"
+         y="135.91663"
+         style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">ADF2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916789;stroke-miterlimit:4;stroke-dasharray:none"
+       x="190.174"
+       y="74.992737"
+       id="text4982-3-2-5-2"
+       transform="scale(1.0000023,0.99999769)"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6-61-9-2"
+         x="190.174"
+         y="74.992737"
+         style="fill:#ffffff;stroke-width:0.52916789;stroke-miterlimit:4;stroke-dasharray:none">STBY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889284px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916718;stroke-miterlimit:4;stroke-dasharray:none"
+       x="97.0634"
+       y="74.992638"
+       id="text4982-3-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6-61-9"
+         x="97.0634"
+         y="74.992638"
+         style="fill:#ffffff;stroke-width:0.52916718;stroke-miterlimit:4;stroke-dasharray:none">ACTIVE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;opacity:1;font-style:normal;font-weight:normal;font-size:4.93889618px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916741;stroke-miterlimit:4;stroke-dasharray:none"
+       x="145.86699"
+       y="95.906448"
+       id="text4982-3-2-7"
+       transform="scale(1.0000015,0.99999851)"><tspan
+         sodipodi:role="line"
+         x="145.86699"
+         y="95.906448"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.52916741;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan1555">&lt;&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;opacity:1;font-style:normal;font-weight:normal;font-size:4.93889618px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916741;stroke-miterlimit:4;stroke-dasharray:none"
+       x="98.941269"
+       y="119.44276"
+       id="text4982-3-2"
+       transform="scale(1.0000015,0.99999848)"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6-61"
+         x="98.941269"
+         y="119.44276"
+         style="fill:#ffffff;stroke-width:0.52916741;stroke-miterlimit:4;stroke-dasharray:none">COM1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;opacity:1;font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       x="129.1611"
+       y="119.5125"
+       id="text4982-3"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6"
+         x="129.1611"
+         y="119.5125"
+         style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">NAV1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;opacity:1;font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       x="159.50517"
+       y="119.5125"
+       id="text4982-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan4980-6-2"
+         x="159.50517"
+         y="119.5125"
+         style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">ADF1</tspan></text>
   </g>
 </svg>
