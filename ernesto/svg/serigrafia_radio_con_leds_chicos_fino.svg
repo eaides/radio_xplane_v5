@@ -35,17 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1022"
+     inkscape:window-width="1613"
+     inkscape:window-height="995"
      id="namedview4436"
      showgrid="false"
-     inkscape:zoom="1.2394119"
-     inkscape:cx="434.25903"
-     inkscape:cy="231.09255"
-     inkscape:window-x="1680"
-     inkscape:window-y="0"
+     inkscape:zoom="3.7244879"
+     inkscape:cx="270.61502"
+     inkscape:cy="504.63922"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showguides="true"
      inkscape:lockguides="false" />
   <!-- Working space 0 0 297 210 -->
@@ -345,12 +345,12 @@
       </g>
     </g>
     <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.17830852;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.16546552;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3152"
-       width="197.82169"
-       height="77.821693"
-       x="49.589153"
-       y="66.089149"
+       width="189.83453"
+       height="69.834534"
+       x="53.582733"
+       y="70.082733"
        ry="0" />
   </g>
   <!-- Set display:none to hide FreeCAD Logo -->
@@ -539,7 +539,7 @@
          style="fill:#ffffff;stroke-width:0.52916718;stroke-miterlimit:4;stroke-dasharray:none">ACTIVE</tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;opacity:1;font-style:normal;font-weight:normal;font-size:4.93889618px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916741;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:4.93889618px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916741;stroke-miterlimit:4;stroke-dasharray:none"
        x="145.86699"
        y="95.906448"
        id="text4982-3-2-7"
@@ -551,7 +551,7 @@
          id="tspan1555">&lt;&gt;</tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;opacity:1;font-style:normal;font-weight:normal;font-size:4.93889618px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916741;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:4.93889618px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916741;stroke-miterlimit:4;stroke-dasharray:none"
        x="98.941269"
        y="119.44276"
        id="text4982-3-2"
@@ -563,7 +563,7 @@
          style="fill:#ffffff;stroke-width:0.52916741;stroke-miterlimit:4;stroke-dasharray:none">COM1</tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;opacity:1;font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
        x="129.1611"
        y="119.5125"
        id="text4982-3"><tspan
@@ -574,7 +574,7 @@
          style="fill:#ffffff;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none">NAV1</tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;opacity:1;font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
        x="159.50517"
        y="119.5125"
        id="text4982-3-9"><tspan
